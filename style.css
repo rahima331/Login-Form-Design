@@ -1,0 +1,36 @@
+.form-box{
+    width: 400px;
+    background: pink;
+    text-align: center;
+    padding: 30px 0px 40px 0px;
+    box-shadow: 5px 5px 10px palevioletred;
+}
+.username{
+    padding: 4px;
+    border-radius: 2px;
+    border: none;
+}
+.password{
+    padding: 4px;
+    border-radius: 2px;
+    border: none;
+}
+button a{
+    text-decoration: none;
+    color: whitesmoke;
+}
+button{
+    padding: 5px 10px;
+    background: black;
+    border-radius: 5px;
+
+
+}
+button:hover{
+    background-color: cornflowerblue;
+    border: none;
+    
+}
+button a:hover{
+    color: black;
+}
